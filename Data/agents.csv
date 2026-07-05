@@ -1,0 +1,101 @@
+Agent_ID,Agent_Name,Team,Manager,Location,Hire_Date
+AG001,Sean Hall,Product Support,David Patel,Tonga,2025-02-16
+AG002,Brian Smith,Product Support,Kenneth Martin,Pitcairn Islands,2023-01-29
+AG003,Andrew Harris,Product Support,Brandon Fischer,Slovakia (Slovak Republic),2024-01-10
+AG004,Laura Sutton,Product Support,Melissa Beasley,Indonesia,2022-03-20
+AG005,Susan Browning,Escalations,Mark Collins,Antigua and Barbuda,2025-09-17
+AG006,Lori Suarez,Technical Support,James Lawson,Dominican Republic,2022-11-11
+AG007,Jordan Hawkins,Escalations,Abigail Watson,Saudi Arabia,2021-10-31
+AG008,Andrea Barker,Billing,David Hart,Niger,2025-07-26
+AG009,David Moore,Product Support,Michael Guzman,Norway,2025-06-08
+AG010,Michelle Delgado,Escalations,Dawn Rojas,Panama,2023-12-29
+AG011,Edward Bryant,Billing,Elizabeth Ingram,Saint Lucia,2021-10-17
+AG012,Thomas Alvarez,Escalations,Jeffrey Mendoza,Comoros,2022-12-27
+AG013,Nathan Perez,Product Support,Tammie Lewis,Tokelau,2026-04-17
+AG014,Gail Hernandez,Product Support,Elijah Gaines,Bulgaria,2025-04-20
+AG015,Susan Payne,Billing,Mark Tran,Puerto Rico,2023-04-22
+AG016,James Baker,Escalations,Christopher Irwin,Saint Kitts and Nevis,2024-05-24
+AG017,Michelle Wood,Product Support,Louis Young,Portugal,2025-12-02
+AG018,Kurt Peterson,Billing,Daniel Simpson,Congo,2026-03-22
+AG019,Kimberly Bailey,Escalations,Joshua White,Yemen,2023-04-01
+AG020,Stephen Garcia,Escalations,Gary Smith,Namibia,2023-04-08
+AG021,Eric Stanley,Billing,Laura Thompson,Kuwait,2026-02-27
+AG022,Sheryl Walker,Escalations,Jason Rose,Comoros,2023-10-29
+AG023,Blake Herring,Escalations,Valerie Williams,Saudi Arabia,2022-06-07
+AG024,James Knox,Product Support,Jeanne Beasley,Ecuador,2024-10-26
+AG025,David Mcclain,Product Support,Charles Hendricks,France,2024-11-29
+AG026,Anna Wyatt,Product Support,Justin Jenkins,Kenya,2022-06-14
+AG027,Vanessa Bautista,Billing,Christine Anderson,Fiji,2025-08-05
+AG028,Steve Mason,Technical Support,Lauren Flowers,China,2026-05-25
+AG029,Bill Skinner,Escalations,Alice Johnson,Belize,2021-12-11
+AG030,Shawn Johnson,Billing,Timothy Wright,Czech Republic,2022-09-14
+AG031,Craig Thomas,Technical Support,Dr. Kristin Ramirez MD,France,2023-07-27
+AG032,Nicholas Ingram,Technical Support,Holly Vincent,Canada,2024-03-16
+AG033,David Tyler,Billing,Michael Thompson,Sri Lanka,2024-07-24
+AG034,Deanna Anderson,Technical Support,Robert Keller,Sri Lanka,2025-06-10
+AG035,Jennifer Richardson,Product Support,Kenneth Harrington,Malawi,2026-03-21
+AG036,Gary Allen,Billing,Rebekah Smith,Afghanistan,2023-06-03
+AG037,Emily Williams,Escalations,Cameron Meyer,Honduras,2021-06-23
+AG038,Jose Garcia,Product Support,Edwin Davis,Spain,2024-08-30
+AG039,Timothy Villa,Escalations,Kimberly Maxwell,United States Minor Outlying Islands,2026-04-30
+AG040,Jennifer Barajas,Technical Support,Matthew Andrews,Saint Barthelemy,2024-05-13
+AG041,Christopher Anderson,Product Support,Sharon George,Jamaica,2025-01-12
+AG042,Rickey Mccoy,Escalations,Mark Moore,Egypt,2023-02-10
+AG043,Megan Turner,Billing,Reginald Roman,Madagascar,2023-09-14
+AG044,Thomas Grant,Technical Support,Joseph Stewart,Gibraltar,2024-09-16
+AG045,Joseph Lopez,Escalations,April Hicks,Wallis and Futuna,2023-07-15
+AG046,Taylor Garcia,Technical Support,Melissa Higgins,Timor-Leste,2021-11-10
+AG047,Cody Moore,Escalations,John Sanders,Cocos (Keeling) Islands,2024-01-26
+AG048,Kimberly Vaughan,Billing,Nancy Davis,New Caledonia,2026-04-28
+AG049,Zachary Hobbs,Product Support,Hunter Hawkins,El Salvador,2024-08-24
+AG050,James Montoya,Escalations,Nichole Walters,Argentina,2024-11-08
+AG051,Raymond Dawson,Technical Support,Ronald Evans,India,2024-12-24
+AG052,Julian Henry,Billing,David Thomas,Djibouti,2022-11-22
+AG053,Heather Anderson,Product Support,Michael Miller,Mayotte,2023-01-18
+AG054,Susan Smith,Technical Support,Jessica Rice,Tuvalu,2025-09-08
+AG055,Angel Porter,Billing,Betty Hopkins,Algeria,2025-10-24
+AG056,Adrienne Reynolds,Technical Support,John Barker,Italy,2021-10-20
+AG057,Denise Hall,Billing,Kenneth Harris,Reunion,2022-07-01
+AG058,Jacqueline Leon,Product Support,Anthony Parks,Venezuela,2023-07-23
+AG059,Brittany Allen,Product Support,Samuel Green,Djibouti,2022-06-13
+AG060,Colton Cooper,Technical Support,Stephanie Simmons,Cayman Islands,2024-11-10
+AG061,Joshua Zamora,Billing,Preston King,Uzbekistan,2025-08-19
+AG062,Michelle Morris,Escalations,Samantha Reed,Dominican Republic,2021-12-26
+AG063,Joshua Woods DVM,Product Support,April Gray,Nauru,2022-05-10
+AG064,Corey Hawkins,Escalations,Andrew Butler,Congo,2022-01-06
+AG065,Rachael Mcdonald,Escalations,Christy Mccoy,Grenada,2022-11-29
+AG066,Catherine Peterson,Technical Support,Katelyn Cochran,Myanmar,2025-03-13
+AG067,Sarah Nicholson,Technical Support,Maria Powell,Hungary,2026-01-30
+AG068,Nathaniel Wiggins,Technical Support,Erin Wilson,Qatar,2023-04-30
+AG069,Nancy Burgess,Billing,Allison Miller,Iraq,2021-09-24
+AG070,Jennifer Li,Product Support,Christopher Fleming,Liberia,2022-04-25
+AG071,Karen Cherry,Product Support,Cynthia Davis,Palau,2024-07-09
+AG072,Elizabeth Perez,Escalations,Brenda Anderson,United Arab Emirates,2024-03-16
+AG073,Brenda Hughes,Technical Support,Andrew Rodriguez,Gabon,2022-09-11
+AG074,Stephen Edwards,Billing,Christopher Jones,Montenegro,2023-06-27
+AG075,William Spencer,Product Support,Tina Fisher,Niger,2023-10-17
+AG076,Miranda Marsh,Billing,Susan Cooper,Paraguay,2023-05-29
+AG077,Chelsea Reilly,Technical Support,Julia Griffin,Faroe Islands,2024-06-24
+AG078,Rhonda Cabrera,Technical Support,Edward Jones,Libyan Arab Jamahiriya,2024-01-09
+AG079,Peter Hall,Product Support,Cathy Wilson,Bouvet Island (Bouvetoya),2026-06-10
+AG080,Gregory Jimenez,Escalations,Monica Hardin,Somalia,2025-07-31
+AG081,Tyler Mills,Escalations,Terry Hickman,Jamaica,2023-10-31
+AG082,Dawn Hogan,Technical Support,Joy Berry,Eritrea,2023-04-07
+AG083,Kenneth Walsh,Technical Support,Sarah Morris,Guyana,2023-10-20
+AG084,Kimberly Roberts,Escalations,Pamela Howell,Bulgaria,2026-02-11
+AG085,Jeremy Bishop,Technical Support,Anthony Gonzales,Belize,2021-08-03
+AG086,Steven Ray,Product Support,Robert Reed,Morocco,2023-10-20
+AG087,Timothy Wiggins,Product Support,Angela Kim,Dominica,2025-01-02
+AG088,Lisa Clark,Billing,Benjamin Diaz,Kenya,2024-05-25
+AG089,Thomas Morales,Escalations,Michelle Gray,Panama,2024-06-13
+AG090,Dr. Raymond Nelson MD,Technical Support,Donald Neal,Peru,2021-12-08
+AG091,Samuel Mitchell,Billing,Whitney Graham,Portugal,2022-08-18
+AG092,Corey Schmidt,Product Support,Angela Richards,Togo,2025-10-05
+AG093,Michael Ramos,Escalations,Christopher Wood,Liberia,2024-08-29
+AG094,Keith Ramsey,Product Support,Rachel Tran,Germany,2023-01-24
+AG095,Diane Smith,Technical Support,Erik Thomas,Saint Barthelemy,2025-07-27
+AG096,Matthew Wallace,Billing,Eugene Reese,Zimbabwe,2025-08-08
+AG097,Harry Moore Jr.,Technical Support,Robert Scott,Indonesia,2025-12-26
+AG098,Shawn Johnson,Technical Support,Edward Smith,Western Sahara,2024-09-24
+AG099,Loretta Burton,Escalations,Jose Ferguson,Czech Republic,2024-05-10
+AG100,Isabella Curtis,Escalations,Amanda Krueger,Nauru,2023-12-28
